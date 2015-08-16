@@ -18,7 +18,7 @@
     "request": "*",
     "winston": "*",
     "nconf": "*",
-    "docker.io": "*",
+    "docker.io": "arawak-io/docker.io#7772fe",
     "node-etcd": "*",
     "set": "*"
   },
